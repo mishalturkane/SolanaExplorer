@@ -1,4 +1,4 @@
-# Solana Explorer
+# [Solana Exploler🔎](https://solana-explorer-ten.vercel.app/)
 
 A modern, user-friendly blockchain explorer for the Solana network. This application allows you to explore blocks, transactions, and wallet data on the Solana blockchain with a clean, intuitive interface.
 
@@ -91,9 +91,7 @@ The build output will be in the `dist` directory, which you can serve using any 
 - Click on any transaction in the Recent Transactions, Search Results, or Your Transactions sections
 - A modal will open displaying detailed information about the selected transaction
 
-## 🌐 Live Demo
 
-[VIEW IT LIVE](https://solana-explorer-ten.vercel.app/)
 
 ## 🤝 Contributing
 
