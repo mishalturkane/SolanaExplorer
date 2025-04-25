@@ -163,7 +163,7 @@ function TransactionDetailModal({ transaction, onClose }: { transaction: Transac
 }
 
 const NETWORK_ENDPOINTS = {
-  'mainnet-beta': 'https://api.mainnet-beta.solana.com',
+  'mainnet-beta': 'https://solana-rpc.publicnode.com',
   'devnet': 'https://api.devnet.solana.com',
   'testnet': 'https://api.testnet.solana.com'
 };
